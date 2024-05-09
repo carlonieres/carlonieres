@@ -1,4 +1,4 @@
-### Ola, me chamo ** Carlos ** 👋
+### Ola, me chamo **Carlos** 👋
 
 - Eatou aqui para aprender e compartilhar projetos
 
